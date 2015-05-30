@@ -51,7 +51,7 @@ The library is licensed under the GNU Affero General Public License.
 Bugs/Issues
 -----------
 
-Use github issue tracker to report bugs.
+Use GitHub [issue tracker](https://github.com/jgradient/jgr_sys/issues) to report bugs.
 
 Other Questions
 ---------------
